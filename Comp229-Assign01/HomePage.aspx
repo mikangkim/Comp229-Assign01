@@ -2,15 +2,19 @@
 
 <!DOCTYPE html>
 
+<!-- Mikang Kim 300921431 -->
+
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head runat="server">
-    <title></title>
+    <title>Home Page</title>
 </head>
+
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-    </div>
+
+         <h1>Mikang Kim Home Page</h1>
+
     </form>
 </body>
 </html>
