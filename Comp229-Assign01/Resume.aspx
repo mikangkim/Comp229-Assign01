@@ -15,7 +15,6 @@
 
 <body>
 
-    <form id="form1" runat="server">
 
           <asp:HyperLink ID="hyperlink3" runat="server" NavigateUrl="Resume.aspx" Target="_parent">
           <asp:Image id="MIKANGKIM" runat="server"
@@ -35,6 +34,18 @@
 
     <div id="titles">
     PERSONAL TAGLINE
+            </div> 
+
+            <br />
+
+    <div id="contents" >
+            # Happy Programmer # Coding Lover # 
+    </div>
+
+        <hr/>
+
+            <div id="titles">
+    PROFILE
             </div> 
 
             <br />
@@ -99,7 +110,6 @@
                     <br />
                     <br />
                     <br />
-            </form>
 
 </body>
 </html>

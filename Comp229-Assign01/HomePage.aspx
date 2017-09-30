@@ -7,16 +7,20 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head runat="server">
+
     <title>Home Page</title>
 
 </head>
 
 <body>
-    <form id="form1" runat="server">
+
+    <div>
 
         <!-- A unique logo inserted -->
+      
+
         <asp:HyperLink ID="hyperlink3" runat="server" NavigateUrl="HomePage.aspx" Target="_parent">  
-        <asp:Image id="Hero" runat="server"
+        <asp:Image id="Logo" runat="server"
            AlternateText="hero"
            ImageUrl="file:///C:/Users/MIKA/Documents/Visual%20Studio%202015/Projects/Comp229-Assign01/Comp229-Assign01/images/hero.png"/>
         </asp:HyperLink>
@@ -37,7 +41,6 @@
            AlternateText="CONTACT"
            ImageUrl="file:///C:/Users/MIKA/Documents/Visual%20Studio%202015/Projects/Comp229-Assign01/Comp229-Assign01/images/email.png"/>
         </asp:HyperLink>
-
-    </form>
+</div>
 </body>
 </html>
