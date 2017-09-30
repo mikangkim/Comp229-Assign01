@@ -22,6 +22,15 @@ namespace Comp229_Assign01 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// hyperlink3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink hyperlink3;
+        
+        /// <summary>
         /// Hero control.
         /// </summary>
         /// <remarks>
